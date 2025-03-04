@@ -32,7 +32,7 @@ I am an Informatics student at Universitas Majalengka with a deep interest in Ma
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning techniques
+- Applied Machine Learning
 
 - Optimizing AI models for better efficiency
 
