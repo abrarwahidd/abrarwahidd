@@ -18,7 +18,7 @@ I am an Informatics student at Universitas Majalengka with a deep interest in Ma
 
 - Languages: Python, JavaScript, HTML, CSS
 
-- Frameworks & Libraries: TensorFlow, ,Scikit-Learn, Tailwind, Bootstrap
+- Frameworks & Libraries: TensorFlow, Scikit-Learn, Tailwind, Bootstrap
 
 - Databases: MySQL
 
