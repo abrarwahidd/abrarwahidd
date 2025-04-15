@@ -10,15 +10,13 @@ I am an Informatics student at Universitas Majalengka with a deep interest in Ma
 
 💡 Passionate about AI, Machine Learning, and Web Development
 
-🎨 Designing intuitive and engaging UI/UX for web applications
-
 📚 Exploring robotics modeling and simulation as part of my studies
 
 ## 🛠 Tech Stack
 
 - Languages: Python, JavaScript, HTML, CSS
 
-- Frameworks & Libraries: TensorFlow, Scikit-Learn, Tailwind, Bootstrap
+- Frameworks & Libraries: TensorFlow, Scikit-Learn, Tailwind, Bootstrap, PyTorch
 
 - Databases: MySQL
 
