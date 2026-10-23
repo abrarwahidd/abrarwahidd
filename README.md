@@ -1,16 +1,20 @@
-## Hi there 👋
+# Abrar Wahid
 
-<!--
-**abrarwahidd/abrarwahidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer — Machine Learning · Computer Vision · LLM & RAG
 
-Here are some ideas to get you started:
+Lulusan Informatika Universitas Majalengka. Berpengalaman membangun 
+pipeline ML, model Computer Vision, dan integrasi LLM ke aplikasi.
+Kontributor riset BIMA Kemdiktisaintek (2 HKI). Juara 1 Hackathon 
+Permikomnas RI 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**ML/CV** — PyTorch · TensorFlow · OpenCV · MobileNetV2 · MediaPipe · SVM  
+**GenAI** — RAG Pipeline · LLM API · CLIP · Prompt Engineering  
+**Tools** — FastAPI · Flask · Docker · Git · Streamlit  
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrarwahidd&show_icons=true&hide_border=true&theme=default&hide=stars)
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abrar--wahid-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abrar-wahid)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-abrarwahid-yellow?style=flat&logo=huggingface)](https://huggingface.co/abrarwahid)
