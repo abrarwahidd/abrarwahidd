@@ -12,9 +12,6 @@ Permikomnas RI 2025.
 **GenAI** — RAG Pipeline · LLM API · CLIP · QLoRA · Prompt Engineering  
 **Tools** — FastAPI · Flask · Docker · Git · Streamlit  
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrarwahidd&show_icons=true&hide_border=true&theme=default&hide=stars)
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abrar--wahid-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abrar-wahid)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-abrarwahid-yellow?style=flat&logo=huggingface)](https://huggingface.co/abrarwahid)
