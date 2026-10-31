@@ -19,4 +19,3 @@ Currently focused on developing reliable AI applications, particularly LLM-power
 
 - [LinkedIn](https://linkedin.com/in/abrarwahid)
 - [Hugging Face](https://huggingface.co/abrarwahid)
-- [GitHub](https://github.com/abrarwahidd)
