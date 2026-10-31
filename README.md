@@ -8,14 +8,22 @@ Winner of **1st Place at the 2025 Permikomnas RI Hackathon** as Team Leader and 
 
 Currently focused on developing reliable AI applications, particularly LLM-powered systems, RAG pipelines, and AI service integration.
 
-## Areas of Interest
 
-- AI Engineering and LLM-powered applications
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning and Computer Vision
-- AI model deployment and REST API integration
 
-## Connect
+<div align="left">
+  <h3>Areas of Interest</h3>
+  <ul>
+    <li>AI Engineering and LLM-powered applications</li>
+    <li>Retrieval-Augmented Generation (RAG)</li>
+    <li>Machine Learning and Computer Vision</li>
+    <li>AI model deployment and REST API integration</li>
+  </ul>
+</div>
 
-- [LinkedIn](https://linkedin.com/in/abrarwahid)
-- [Hugging Face](https://huggingface.co/abrarwahid)
+<div align="left">
+  <h3>Connect</h3>
+  <a href="https://linkedin.com/in/abrarwahid">LinkedIn</a> ·
+  <a href="https://huggingface.co/abrarwahid">Hugging Face</a> 
+</div>
+
+
