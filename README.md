@@ -1,9 +1,22 @@
 # Abrar Wahid
 
-AI/ML Engineer — Machine Learning · Computer Vision · LLM & RAG
+**Aspiring AI Engineer | Machine Learning · Computer Vision · LLM Applications**
 
-Fresh graduate Informatics from Universitas Majalengka. Experienced in building machine learning pipelines, developing Computer Vision models, and integrating LLMs into various applications. Contributed to research under the BIMA program (supported by the Ministry of Higher Education, Science, and Technology), which resulted in two registered Intellectual Property Rights (IPR). Winner of the 2025 Permikomnas RI Hackathon.
+Fresh graduate in Informatics from Universitas Majalengka, with a background in Machine Learning and Computer Vision and an interest in building practical AI applications. Experienced in data processing, model development and evaluation, and integrating LLMs into applications through REST APIs.
+
+Winner of **1st Place at the 2025 Permikomnas RI Hackathon** as Team Leader and ML Engineer. Contributed to BIMA-funded research through the development of Machine Learning pipelines and Deep Learning models, which contributed to **two registered intellectual property works**.
+
+Currently focused on developing reliable AI applications, particularly LLM-powered systems, RAG pipelines, and AI service integration.
+
+## Areas of Interest
+
+- AI Engineering and LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning and Computer Vision
+- AI model deployment and REST API integration
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abrar--wahid-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abrar-wahid)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-abrarwahid-yellow?style=flat&logo=huggingface)](https://huggingface.co/abrarwahid)
+
+- [LinkedIn](https://linkedin.com/in/abrarwahid)
+- [Hugging Face](https://huggingface.co/abrarwahid)
+- [GitHub](https://github.com/abrarwahidd)
