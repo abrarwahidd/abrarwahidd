@@ -1,6 +1,6 @@
 # Abrar Wahid
 
-**Aspiring AI Engineer | Machine Learning · Computer Vision · LLM Applications**
+**AI Engineer | Machine Learning · Computer Vision · LLM Applications**
 
 Fresh graduate in Informatics from Universitas Majalengka, with a background in Machine Learning and Computer Vision and an interest in building practical AI applications. Experienced in data processing, model development and evaluation, and integrating LLMs into applications through REST APIs.
 
